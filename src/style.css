@@ -24,7 +24,7 @@ body {
 .calc__btn > button {
   cursor: pointer;
   font-size: 1rem;
-  border: 1px solid white;
+  border: 1px solid rgb(224, 214, 214);
   outline: none;
   background-color: rgb(240, 236, 228);
   transition: 0.2s ease-in-out;
