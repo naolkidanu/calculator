@@ -1,9 +1,5 @@
 <a name="readme-top"></a>
 
-<div align="center">
-  <img src="logo-removebg.png" alt="logo" width="210"  height="auto" />
-  <br/>
-
   <h3><b>Math Magicians: README</b></h3>
 
 </div>
@@ -107,11 +103,11 @@ You can deploy this project using: GitHub but if you want to deploy make sure yo
 
 > Mention all of the collaborators of this project.
 
-👤 **Aung Pyae Khant**
+👤 **Naol Kidanu Merdasa**
 
-- GitHub: [Naol Kidanu](https://github.com/naolkidanu)
-- Twitter: [Naol Kidanu](https://twitter.com/naolkidanu)
-- LinkedIn: [Naol Kidanu](https://linkedin.com/in/naolkidanu)
+- GitHub: [Naol Kidanu Merdasa](https://github.com/naolkidanu/calculator)
+- Twitter: [Naol Kidanu Merdasa](https://twitter.com/naolkidanu)
+- LinkedIn: [Naol Kidanu Merdasa](https://linkedin.com/in/naolkidanu)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
