@@ -21,5 +21,25 @@ function App() {
     </>
   );
 }
+function Layout() {
+  return (
+    <div className="layout">
+      <nav className="navbar">
+        <ul className="navItems">
+          <li>
+            <Link to="/">Home</Link>
+          </li>
+          <li>
+            <Link to="/calculator">Calculator</Link>
+          </li>
+          <li>
+            <Link to="/quotes">Quotes</Link>
+          </li>
+        </ul>
+      </nav>
+      <Outlet />
+    </div>
+  );
+}
 
 export default App;
