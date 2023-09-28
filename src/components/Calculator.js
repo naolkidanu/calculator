@@ -1,7 +1,7 @@
-import React from 'react';
-import '../style.css';
-import CalcBtns from './CalcBtns';
-import Quote from './Quotes';
+import React from "react";
+import "../style.css";
+import CalcBtns from "./CalcBtns";
+import Quote from "./Quotes";
 
 const Calculator = () => (
   <>
