@@ -1,9 +1,11 @@
-import React from "react";
-import "./style.css";
-import { Route, Routes, Outlet, Link } from "react-router-dom";
-import Calculator from "./components/Calculator";
-import DisplayQuote from "./components/Quotes";
-import Home from "./components/Home";
+import React from 'react';
+import './style.css';
+import {
+  Route, Routes, Outlet, Link,
+} from 'react-router-dom';
+import Calculator from './components/Calculator';
+import DisplayQuote from './components/Quotes';
+import Home from './components/Home';
 
 function App() {
   return (
