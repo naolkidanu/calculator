@@ -7,6 +7,9 @@
 body {
   background: linear-gradient(to right, #f1f5e8, #dde2e2);
 }
+.home {
+  background-color: #fff;
+}
 
 .calc__grid {
   display: grid;
